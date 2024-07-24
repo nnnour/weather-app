@@ -55,5 +55,6 @@ git clone https://github.com/nnnour/weather-app.git
     cd weather-app
     ```
 3. Install the dependencies:
-'''sh
-npm install
+  ```bash
+    npm install
+    ```
