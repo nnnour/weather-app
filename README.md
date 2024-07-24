@@ -47,8 +47,9 @@ Welcome to the Weather App! This project is a simple and fun weather application
 
 1. Clone the repository to your local machine:
 
-```sh
+```
 git clone https://github.com/nnnour/weather-app.git
+```
 
 2. Navigate to the project directory:
     ```bash
