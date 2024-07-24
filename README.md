@@ -47,15 +47,25 @@ Welcome to the Weather App! This project is a simple and fun weather application
 
 1. Clone the repository to your local machine:
 
-```
-git clone https://github.com/nnnour/weather-app.git
-```
+  ```
+  git clone https://github.com/nnnour/weather-app.git
+  ```
 
 2. Navigate to the project directory:
+   
     ```bash
     cd weather-app
     ```
+    
 3. Install the dependencies:
+   
   ```bash
-    npm install
-    ```
+  npm install
+  ```
+
+4. Run the app in development mode:
+
+  ```
+  npm start
+  ```
+
