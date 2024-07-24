@@ -68,3 +68,15 @@ Welcome to the Weather App! This project is a simple and fun weather application
     ```bash
     npm start
     ```
+
+5. Open http://localhost:3000 to view it in your browser
+
+---
+
+## 🌐 Technologies Used
+
+- **React JS:** Utilized for creating a dynamic and responsive user interface.
+- **Axios:** Employed for efficient and easy-to-use HTTP client for making API requests.
+- **OpenWeatherMap API:** Leveraged to fetch real-time weather data from a reliable source.
+- **CSS:** Applied to style the application and enhance the visual appearance.
+
