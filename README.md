@@ -1,6 +1,6 @@
 # 🌦️ Weather App 🌦️
 
-Welcome to the Weather App! This project is a simple and fun weather application built using React JS, Axios, and the OpenWeatherMap API. Get real-time weather updates for any location with a clean and responsive user interface.
+Welcome to the Weather App! This project is a fun weather application built using React JS, Axios, and the OpenWeatherMap API. Get real-time weather updates for any location with a clean and responsive user interface.
 
 ---
 
